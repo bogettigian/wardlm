@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "securityChecks": {
+    "nonReversibleDestructive": true,
+    "sudoAccess": false,
+    "obfuscation": false,
+    "networking": false
+  }
+}
